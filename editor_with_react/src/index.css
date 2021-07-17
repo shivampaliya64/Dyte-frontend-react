@@ -7,11 +7,16 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 .top-pane{
-  background-color: hsl(225,5%,25%);
+  background-color: rgb(65, 65, 65);
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
 }
 .pane{
   height: 50vh;
+  padding: 5px;
   display: flex;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: medium;
 }
 .editor-container{
   flex-grow: 1;
@@ -21,8 +26,12 @@ body {
   padding: 0.5rem;
   background-color: hsl(225,5%,25%);
 }
+
 .editor-container.collapsed{
   flex-grow: 0;
+}
+.editor-container.collapsed.CodeMirror-scroll{
+  position: absolute;
 }
 .editor-title{
   display: flex;
@@ -33,7 +42,6 @@ body {
   border-top-right-radius: .5rem;
   border-top-left-radius: .5rem;
 }
-
 .code-mirror-wrapper{
   flex-grow: 1;
   border-bottom-left-radius: .5rem;

@@ -25,6 +25,8 @@ function App(){
 
     return (
         <>
+            <div className="top-pane">Hello User,</div>
+            <div className="top-pane">Click corresponding buttons to explore/operate the tabs :</div>
             <div className="pane top-pane">
             <Editor 
              language="xml"
@@ -43,9 +45,11 @@ function App(){
              displayName="JS"
              value={js}
              onChange={setJs}
-            />
+            />             
             </div>
+
             <div className="pane">
+                Display Section
                 <iframe 
                     srcDoc={srcDoc}
                     title="output"
