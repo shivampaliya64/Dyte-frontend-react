@@ -1,2 +1,0 @@
-# Dyte-frontend-react
-
