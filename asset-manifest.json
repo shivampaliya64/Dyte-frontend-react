@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Dyte-frontend-react/static/css/main.c849504f.chunk.css",
+    "main.js": "/Dyte-frontend-react/static/js/main.5edba4ee.chunk.js",
+    "main.js.map": "/Dyte-frontend-react/static/js/main.5edba4ee.chunk.js.map",
+    "runtime-main.js": "/Dyte-frontend-react/static/js/runtime-main.808a5f24.js",
+    "runtime-main.js.map": "/Dyte-frontend-react/static/js/runtime-main.808a5f24.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/Dyte-frontend-react/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.d8870437.chunk.js": "/Dyte-frontend-react/static/js/2.d8870437.chunk.js",
+    "static/js/2.d8870437.chunk.js.map": "/Dyte-frontend-react/static/js/2.d8870437.chunk.js.map",
+    "static/js/3.70357535.chunk.js": "/Dyte-frontend-react/static/js/3.70357535.chunk.js",
+    "static/js/3.70357535.chunk.js.map": "/Dyte-frontend-react/static/js/3.70357535.chunk.js.map",
+    "index.html": "/Dyte-frontend-react/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/Dyte-frontend-react/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.c849504f.chunk.css.map": "/Dyte-frontend-react/static/css/main.c849504f.chunk.css.map",
+    "static/js/2.d8870437.chunk.js.LICENSE.txt": "/Dyte-frontend-react/static/js/2.d8870437.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.808a5f24.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.d8870437.chunk.js",
+    "static/css/main.c849504f.chunk.css",
+    "static/js/main.5edba4ee.chunk.js"
+  ]
+}
